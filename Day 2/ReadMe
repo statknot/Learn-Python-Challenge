@@ -1,0 +1,3 @@
+Day 2 of the Learn Python challenge! Today we'll be talking about functions: calling them, defining them, and looking them up using Python's built-in documentation.
+
+In some languages, functions must be defined to always take a specific number of arguments, each having a particular type. Python functions are allowed much more flexibility.

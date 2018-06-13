@@ -1,0 +1,4 @@
+Day 3: Booleans and Conditionals
+Welcome to day 3 of the Python Challenge! In case you missed the first two days, here are links to day 1 and day 2. Today we'll learn about booleans and conditionals.
+
+Python has a type bool which can take on one of two values: True and False.
